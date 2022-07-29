@@ -28,7 +28,7 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=dciBLRUAAAAJ&hl=en)
 
-* __Tran N__, Kepple D, Shuvaev S, Koulakov A. DeepNose: Using artificial neural networks to represent the space of odorants. _ICML_.
+* __Tran N__, Kepple D, Shuvaev S, Koulakov A. DeepNose: Using artificial neural networks to represent the space of odorants. _International Conference on Machine Learning_.
 * Shuvaev S, __Tran N__, Stephenson-Jones M, Li B, Koulakov A. Neural networks with motivation. _Frontiers in System Neruoscience_.
 
 ## Talks
